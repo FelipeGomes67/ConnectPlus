@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "API de Eventos",
+    "title": "API de Contatos",
     "description": "Aplicação para gerenciamento de eventos",
     "termsOfService": "https://example.com/terms",
     "contact": {

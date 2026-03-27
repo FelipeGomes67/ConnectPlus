@@ -1,1 +1,1 @@
-{"ContentRoots":["C:\\Users\\52611156808\\Desktop\\ConnectPlus\\ConnectPlus\\wwwroot\\"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["C:\\Users\\52611156808\\Desktop\\ConnectPlus\\ConnectPlus\\wwwroot\\"],"Root":{"Children":{"Imagens":{"Children":{"padrao.png":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"Imagens/padrao.png"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
